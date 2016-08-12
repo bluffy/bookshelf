@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site </title>
-    <link>http://localhost:63342/bookshelf/public/</link>
+    <link>https://bluffy.github.io/bookshelf/</link>
     <language>en-us</language>
     <author>Shekhar Gulati</author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Good to Great Book Review2</title>
-          <link>http://localhost:63342/bookshelf/public/post/good-to-great2/</link>
+          <link>https://bluffy.github.io/bookshelf/post/good-to-great2/</link>
           <pubDate>Fri, 12 Aug 2016 11:43:19 CEST</pubDate>
           <author>Shekhar Gulati</author>
-          <guid>http://localhost:63342/bookshelf/public/post/good-to-great2/</guid>
+          <guid>https://bluffy.github.io/bookshelf/post/good-to-great2/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
 </description>
         </item>
@@ -24,10 +24,10 @@
       
         <item>
           <title>Good to Great Book Review</title>
-          <link>http://localhost:63342/bookshelf/public/post/good-to-great/</link>
+          <link>https://bluffy.github.io/bookshelf/post/good-to-great/</link>
           <pubDate>Fri, 12 Aug 2016 11:43:05 CEST</pubDate>
           <author>Shekhar Gulati</author>
-          <guid>http://localhost:63342/bookshelf/public/post/good-to-great/</guid>
+          <guid>https://bluffy.github.io/bookshelf/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
 </description>
         </item>
